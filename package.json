@@ -1,0 +1,32 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.6.5",
+    "nodemon": "^2.0.20",
+    "vercel": "^28.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinEmbon/commercial_application.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/MartinEmbon/commercial_application/issues"
+  },
+  "homepage": "https://github.com/MartinEmbon/commercial_application#readme"
+}
