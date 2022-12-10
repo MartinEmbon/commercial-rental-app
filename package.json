@@ -22,11 +22,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MartinEmbon/commercial_application.git"
+    "url": "git+https://github.com/MartinEmbon/commercial-rental-app.git"
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/MartinEmbon/commercial_application/issues"
+    "url": "https://github.com/MartinEmbon/commercial-rental-app/issues"
   },
-  "homepage": "https://github.com/MartinEmbon/commercial_application#readme"
+  "homepage": "https://github.com/MartinEmbon/commercial-rental-app#readme"
 }
